@@ -12,7 +12,7 @@ const { round } = util;
 
 
 // store info about the experiment session:
-let expName = 'nc_3sti';  // from the Builder filename that created this script
+let expName = 'nc_3stim';  // from the Builder filename that created this script
 let expInfo = {
     '班別學號 (e.g. 1a01)': '',
 };
