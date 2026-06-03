@@ -12,7 +12,7 @@ const { round } = util;
 
 
 // store info about the experiment session:
-let expName = 'nc2';  // from the Builder filename that created this script
+let expName = 'nc_3stim';  // from the Builder filename that created this script
 let expInfo = {
     '班別學號 (e.g. 1a01)': '',
 };
@@ -1846,7 +1846,7 @@ function thankRoutineBegin(snapshot) {
     psychoJS.experiment.addData('thank.started', globalClock.getTime());
     thankMaxDuration = null;
     thankComponents = [];
-    thankComponents.push(introtext_3);
+    thankComponents.push(instruct_3);
     for (const comp of thankComponents) {
       if (comp && 'status' in comp) comp.status = PsychoJS.Status.NOT_STARTED;
     }
