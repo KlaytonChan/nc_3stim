@@ -244,13 +244,13 @@ async function experimentInit() {
     ori: 0.0,
     units: psychoJS.window.units,
     color: 'white',
-    fillColor: 'white',
+    fillColor: 'blue',
     borderColor: null,
     colorSpace: 'rgb',
     borderWidth: 0.0,
     opacity: null,
     depth: 0,
-    letterHeight: 0.1,
+    letterHeight: 0.2,
     bold: false,
     italic: false,
   });
@@ -274,7 +274,7 @@ async function experimentInit() {
     borderWidth: 0.0,
     opacity: null,
     depth: -1,
-    letterHeight: 0.1,
+    letterHeight: 0.2,
     bold: false,
     italic: false,
   });
@@ -458,7 +458,7 @@ async function experimentInit() {
     borderWidth: 0.0,
     opacity: null,
     depth: 0,
-    letterHeight: 0.1,
+    letterHeight: 0.2,
     bold: false,
     italic: false,
   });
@@ -482,7 +482,7 @@ async function experimentInit() {
     borderWidth: 0.0,
     opacity: null,
     depth: -1,
-    letterHeight: 0.1,
+    letterHeight: 0.2,
     bold: false,
     italic: false,
   });
